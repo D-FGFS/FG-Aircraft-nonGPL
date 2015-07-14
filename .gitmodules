@@ -256,3 +256,12 @@
 [submodule "delorean"]
 	path = delorean
 	url = https://github.com/FGMEMBERS-NONGPL/delorean.git
+[submodule "IAR80"]
+	path = IAR80
+	url = https://github.com/FGMEMBERS-NONGPL/IAR80.git
+[submodule "Lockheed-L10-Electra"]
+	path = Lockheed-L10-Electra
+	url = https://github.com/FGMEMBERS-NONGPL/Lockheed-L10-Electra.git
+[submodule "747-123-SCA"]
+	path = 747-123-SCA
+	url = https://github.com/FGMEMBERS-NONGPL/747-123-SCA.git
