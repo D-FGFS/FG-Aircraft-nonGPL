@@ -265,3 +265,6 @@
 [submodule "747-123-SCA"]
 	path = 747-123-SCA
 	url = https://github.com/FGMEMBERS-NONGPL/747-123-SCA.git
+[submodule "Velocity-XL-RG"]
+	path = Velocity-XL-RG
+	url = https://github.com/FGMEMBERS-NONGPL/Velocity-XL-RG.git
