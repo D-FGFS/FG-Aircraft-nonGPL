@@ -268,3 +268,6 @@
 [submodule "Velocity-XL-RG"]
 	path = Velocity-XL-RG
 	url = https://github.com/FGMEMBERS-NONGPL/Velocity-XL-RG.git
+[submodule "BoP"]
+	path = BoP
+	url = https://github.com/FGMEMBERS-NONGPL/BoP.git
