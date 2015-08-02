@@ -271,3 +271,6 @@
 [submodule "BoP"]
 	path = BoP
 	url = https://github.com/FGMEMBERS-NONGPL/BoP.git
+[submodule "Morane-Saulnier-BB"]
+	path = Morane-Saulnier-BB
+	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier-BB.git
