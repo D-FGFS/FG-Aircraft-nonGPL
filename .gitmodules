@@ -274,3 +274,6 @@
 [submodule "Morane-Saulnier-BB"]
 	path = Morane-Saulnier-BB
 	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier-BB.git
+[submodule "737-900ER"]
+	path = 737-900ER
+	url = https://github.com/FGMEMBERS-NONGPL/737-900ER.git
