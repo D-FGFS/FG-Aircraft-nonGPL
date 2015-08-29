@@ -277,3 +277,9 @@
 [submodule "737-900ER"]
 	path = 737-900ER
 	url = https://github.com/FGMEMBERS-NONGPL/737-900ER.git
+[submodule "tampa"]
+	path = tampa
+	url = https://github.com/FGMEMBERS-NONGPL/tampa.git
+[submodule "AVRO-504-D"]
+	path = AVRO-504-D
+	url = https://github.com/FGMEMBERS-NONGPL/AVRO-504-D.git
