@@ -121,9 +121,6 @@
 [submodule "Thornycroft_AA"]
 	path = Thornycroft_AA
 	url = https://github.com/FGMEMBERS-NONGPL/Thornycroft_AA.git
-[submodule "Morane_Saulnier_N"]
-	path = Morane_Saulnier_N
-	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier_N.git
 [submodule "il-96-400"]
 	path = il-96-400
 	url = https://github.com/FGMEMBERS-NONGPL/il-96-400.git
@@ -283,3 +280,6 @@
 [submodule "AVRO-504-D"]
 	path = AVRO-504-D
 	url = https://github.com/FGMEMBERS-NONGPL/AVRO-504-D.git
+[submodule "Morane-Saulnier_N"]
+	path = Morane-Saulnier_N
+	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier_N.git
