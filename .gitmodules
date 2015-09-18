@@ -283,3 +283,12 @@
 [submodule "Morane-Saulnier_N"]
 	path = Morane-Saulnier_N
 	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier_N.git
+[submodule "CRJ700-family"]
+	path = CRJ700-family
+	url = https://github.com/FGMEMBERS-NONGPL/CRJ700-family.git
+[submodule "HFarman-22"]
+	path = HFarman-22
+	url = https://github.com/FGMEMBERS-NONGPL/HFarman-22.git
+[submodule "Aviatik-CI"]
+	path = Aviatik-CI
+	url = https://github.com/FGMEMBERS-NONGPL/Aviatik-CI.git
