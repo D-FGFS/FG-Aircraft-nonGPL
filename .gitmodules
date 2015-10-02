@@ -292,3 +292,6 @@
 [submodule "Aviatik-CI"]
 	path = Aviatik-CI
 	url = https://github.com/FGMEMBERS-NONGPL/Aviatik-CI.git
+[submodule "Goose"]
+	path = Goose
+	url = https://github.com/FGMEMBERS-NONGPL/Goose.git
