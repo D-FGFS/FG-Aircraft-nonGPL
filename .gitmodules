@@ -298,3 +298,6 @@
 [submodule "fkdr1"]
 	path = fkdr1
 	url = https://github.com/FGMEMBERS-NONGPL/fkdr1.git
+[submodule "Curtiss-Jenny"]
+	path = Curtiss-Jenny
+	url = https://github.com/FGMEMBERS-NONGPL/Curtiss-Jenny.git
