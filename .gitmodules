@@ -295,3 +295,6 @@
 [submodule "Goose"]
 	path = Goose
 	url = https://github.com/FGMEMBERS-NONGPL/Goose.git
+[submodule "fkdr1"]
+	path = fkdr1
+	url = https://github.com/FGMEMBERS-NONGPL/fkdr1.git
