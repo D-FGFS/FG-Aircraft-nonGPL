@@ -301,3 +301,6 @@
 [submodule "Curtiss-Jenny"]
 	path = Curtiss-Jenny
 	url = https://github.com/FGMEMBERS-NONGPL/Curtiss-Jenny.git
+[submodule "MI-6PS"]
+	path = MI-6PS
+	url = https://github.com/FGMEMBERS-NONGPL/MI-6PS.git
