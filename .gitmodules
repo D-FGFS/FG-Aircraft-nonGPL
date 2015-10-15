@@ -304,3 +304,6 @@
 [submodule "MI-6PS"]
 	path = MI-6PS
 	url = https://github.com/FGMEMBERS-NONGPL/MI-6PS.git
+[submodule "MD-82"]
+	path = MD-82
+	url = https://github.com/FGMEMBERS-NONGPL/MD-82.git
