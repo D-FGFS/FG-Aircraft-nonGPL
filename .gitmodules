@@ -307,3 +307,6 @@
 [submodule "MD-82"]
 	path = MD-82
 	url = https://github.com/FGMEMBERS-NONGPL/MD-82.git
+[submodule "ThornyWeen"]
+	path = ThornyWeen
+	url = git@github.com:FGMEMBERS-NONGPL/ThornyWeen.git
