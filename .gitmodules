@@ -319,3 +319,6 @@
 [submodule "gtav-declasse-voodoo"]
 	path = gtav-declasse-voodoo
 	url = https://github.com/FGMEMBERS-NONGPL/gtav-declasse-voodoo.git
+[submodule "gtav-airtug"]
+	path = gtav-airtug
+	url = https://github.com/FGMEMBERS-NONGPL/gtav-airtug.git
