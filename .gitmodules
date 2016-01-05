@@ -313,3 +313,9 @@
 [submodule "GulfstreamG550"]
 	path = GulfstreamG550
 	url = https://github.com/FGMEMBERS-NONGPL/GulfstreamG550.git
+[submodule "FG-GTA-V-Declasse-Voodoo"]
+	path = FG-GTA-V-Declasse-Voodoo
+	url = https://github.com/FGMEMBERS-NONGPL/FG-GTA-V-Declasse-Voodoo.git
+[submodule "MD-88"]
+	path = MD-88
+	url = https://github.com/FGMEMBERS-NONGPL/MD-88.git
