@@ -322,3 +322,6 @@
 [submodule "gtav-airtug"]
 	path = gtav-airtug
 	url = https://github.com/FGMEMBERS-NONGPL/gtav-airtug.git
+[submodule "gtav-vapid-speedo"]
+	path = gtav-vapid-speedo
+	url = https://github.com/FGMEMBERS-NONGPL/gtav-vapid-speedo.git
