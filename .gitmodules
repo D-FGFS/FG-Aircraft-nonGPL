@@ -232,9 +232,6 @@
 [submodule "Optica"]
 	path = Optica
 	url = https://github.com/FGMEMBERS-NONGPL/Optica.git
-[submodule "T-4"]
-	path = T-4
-	url = https://github.com/FGMEMBERS-NONGPL/T-4.git
 [submodule "T-50"]
 	path = T-50
 	url = https://github.com/FGMEMBERS-NONGPL/T-50.git
