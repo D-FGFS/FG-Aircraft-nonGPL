@@ -325,3 +325,6 @@
 [submodule "gtav-vapid-speedo"]
 	path = gtav-vapid-speedo
 	url = https://github.com/FGMEMBERS-NONGPL/gtav-vapid-speedo.git
+[submodule "B377"]
+	path = B377
+	url = https://github.com/FGMEMBERS-NONGPL/B377.git
