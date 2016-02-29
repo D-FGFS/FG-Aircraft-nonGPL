@@ -325,3 +325,6 @@
 [submodule "B377"]
 	path = B377
 	url = https://github.com/FGMEMBERS-NONGPL/B377.git
+[submodule "FW-58-Wasser"]
+	path = FW-58-Wasser
+	url = https://github.com/FGMEMBERS-NONGPL/FW-58-Wasser.git
