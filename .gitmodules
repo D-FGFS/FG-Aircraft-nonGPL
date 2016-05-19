@@ -328,3 +328,18 @@
 [submodule "FW-58-Wasser"]
 	path = FW-58-Wasser
 	url = https://github.com/FGMEMBERS-NONGPL/FW-58-Wasser.git
+[submodule "MD-90"]
+	path = MD-90
+	url = https://github.com/FGMEMBERS-NONGPL/MD-90.git
+[submodule "Albatros-DIII"]
+	path = Albatros-DIII
+	url = https://github.com/FGMEMBERS-NONGPL/Albatros-DIII.git
+[submodule "Albatros-CI"]
+	path = Albatros-CI
+	url = https://github.com/FGMEMBERS-NONGPL/Albatros-CI.git
+[submodule "Albatros-CIII"]
+	path = Albatros-CIII
+	url = https://github.com/FGMEMBERS-NONGPL/Albatros-CIII.git
+[submodule "Albatros-DI"]
+	path = Albatros-DI
+	url = https://github.com/FGMEMBERS-NONGPL/Albatros-DI.git
