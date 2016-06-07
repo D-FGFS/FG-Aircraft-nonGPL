@@ -19,9 +19,6 @@
 [submodule "A-7E_vx5"]
 	path = A-7E_vx5
 	url = https://github.com/FGMEMBERS-NONGPL/A-7E_vx5.git
-[submodule "AC130"]
-	path = AC130
-	url = https://github.com/FGMEMBERS-NONGPL/AC130.git
 [submodule "AD-4"]
 	path = AD-4
 	url = https://github.com/FGMEMBERS-NONGPL/AD-4.git
@@ -130,9 +127,6 @@
 [submodule "Kfir"]
 	path = Kfir
 	url = https://github.com/FGMEMBERS-NONGPL/Kfir.git
-[submodule "Lamborghini_Murcielago"]
-	path = Lamborghini_Murcielago
-	url = https://github.com/FGMEMBERS-NONGPL/Lamborghini_Murcielago.git
 [submodule "m113"]
 	path = m113
 	url = https://github.com/FGMEMBERS-NONGPL/m113.git
@@ -145,9 +139,6 @@
 [submodule "P-47D"]
 	path = P-47D
 	url = https://github.com/FGMEMBERS-NONGPL/P-47D.git
-[submodule "panzer"]
-	path = panzer
-	url = https://github.com/FGMEMBERS-NONGPL/panzer.git
 [submodule "PreciousMetal"]
 	path = PreciousMetal
 	url = https://github.com/FGMEMBERS-NONGPL/PreciousMetal.git
