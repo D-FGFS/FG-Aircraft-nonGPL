@@ -148,9 +148,6 @@
 [submodule "panzer"]
 	path = panzer
 	url = https://github.com/FGMEMBERS-NONGPL/panzer.git
-[submodule "pc7"]
-	path = pc7
-	url = https://github.com/FGMEMBERS-NONGPL/pc7.git
 [submodule "PreciousMetal"]
 	path = PreciousMetal
 	url = https://github.com/FGMEMBERS-NONGPL/PreciousMetal.git
