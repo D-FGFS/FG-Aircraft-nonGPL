@@ -256,9 +256,6 @@
 [submodule "Morane-Saulnier-BB"]
 	path = Morane-Saulnier-BB
 	url = https://github.com/FGMEMBERS-NONGPL/Morane-Saulnier-BB.git
-[submodule "737-900ER"]
-	path = 737-900ER
-	url = https://github.com/FGMEMBERS-NONGPL/737-900ER.git
 [submodule "tampa"]
 	path = tampa
 	url = https://github.com/FGMEMBERS-NONGPL/tampa.git
@@ -295,9 +292,6 @@
 [submodule "ThornyWeen"]
 	path = ThornyWeen
 	url = https://github.com/FGMEMBERS-NONGPL/ThornyWeen.git
-[submodule "GulfstreamG550"]
-	path = GulfstreamG550
-	url = https://github.com/FGMEMBERS-NONGPL/GulfstreamG550.git
 [submodule "MD-88"]
 	path = MD-88
 	url = https://github.com/FGMEMBERS-NONGPL/MD-88.git
