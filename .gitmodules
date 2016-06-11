@@ -130,9 +130,6 @@
 [submodule "m113"]
 	path = m113
 	url = https://github.com/FGMEMBERS-NONGPL/m113.git
-[submodule "MB326"]
-	path = MB326
-	url = https://github.com/FGMEMBERS-NONGPL/MB326.git
 [submodule "MiG-21"]
 	path = MiG-21
 	url = https://github.com/FGMEMBERS-NONGPL/MiG-21.git
