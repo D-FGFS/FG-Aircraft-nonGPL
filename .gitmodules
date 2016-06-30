@@ -322,3 +322,6 @@
 [submodule "Albatros-DI"]
 	path = Albatros-DI
 	url = https://github.com/FGMEMBERS-NONGPL/Albatros-DI.git
+[submodule "Bell-412"]
+	path = Bell-412
+	url = https://github.com/FGMEMBERS-NONGPL/Bell-412.git
