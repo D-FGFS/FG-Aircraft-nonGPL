@@ -325,3 +325,12 @@
 [submodule "Bell-412"]
 	path = Bell-412
 	url = https://github.com/FGMEMBERS-NONGPL/Bell-412.git
+[submodule "P-51A"]
+	path = P-51A
+	url = https://github.com/FGMEMBERS-NONGPL/P-51A.git
+[submodule "EE-Lightning"]
+	path = EE-Lightning
+	url = https://github.com/FGMEMBERS-NONGPL/EE-Lightning.git
+[submodule "B-58A"]
+	path = B-58A
+	url = https://github.com/FGMEMBERS-NONGPL/B-58A.git
