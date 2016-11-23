@@ -337,3 +337,6 @@
 [submodule "Nieuport-12A2"]
 	path = Nieuport-12A2
 	url = git@github.com:FGMEMBERS-NONGPL/Nieuport-12A2.git
+[submodule "Nieuport_10"]
+	path = Nieuport_10
+	url = https://github.com/FGMEMBERS-NONGPL/Nieuport_10.git
