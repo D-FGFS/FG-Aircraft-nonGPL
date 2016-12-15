@@ -340,3 +340,9 @@
 [submodule "Nieuport-12A2"]
 	path = Nieuport-12A2
 	url = https://github.com/FGMEMBERS-NONGPL/Nieuport-12A2.git
+[submodule "supermarine-swiftR5"]
+	path = supermarine-swiftR5
+	url = https://github.com/FGMEMBERS-NONGPL/supermarine-swiftR5.git
+[submodule "TigerII-JSB"]
+	path = TigerII-JSB
+	url = https://github.com/FGMEMBERS-NONGPL/TigerII-JSB.git
