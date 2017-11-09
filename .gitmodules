@@ -346,3 +346,6 @@
 [submodule "TigerII-JSB"]
 	path = TigerII-JSB
 	url = https://github.com/FGMEMBERS-NONGPL/TigerII-JSB.git
+[submodule "Fokker-DVII"]
+	path = Fokker-DVII
+	url = https://github.com/FGMEMBERS-NONGPL/Fokker-DVII.git
