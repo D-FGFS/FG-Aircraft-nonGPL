@@ -349,3 +349,6 @@
 [submodule "Fokker-DVII"]
 	path = Fokker-DVII
 	url = https://github.com/FGMEMBERS-NONGPL/Fokker-DVII.git
+[submodule "HP-O-400"]
+	path = HP-O-400
+	url = https://github.com/FGMEMBERS-NONGPL/HP-O-400.git
