@@ -352,3 +352,9 @@
 [submodule "HP-O-400"]
 	path = HP-O-400
 	url = https://github.com/FGMEMBERS-NONGPL/HP-O-400.git
+[submodule "RAF-BE12"]
+	path = RAF-BE12
+	url = https://github.com/FGMEMBERS-NONGPL/RAF-BE12.git
+[submodule "L-11-Zeppelin"]
+	path = L-11-Zeppelin
+	url = https://github.com/FGMEMBERS-NONGPL/L-11-Zeppelin.git
